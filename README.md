@@ -21,5 +21,16 @@
 - yarn add -D eslint-config-prettier eslint-plugin-prettier prettier
 + > .prettierrc
 
-- yarn add -D lint-staged husky ::: só git commit se código ok
+ - yarn add -D jest @babel/preset-typescript @types/jest
+
+ -  yarn add -D @types/styled-components babel-plugin-styled-components
+ - yarn add styled-components
+
+ - npx sb init ::: storybook
+
+ - yarn add next-pwa ::: funcionar offline
+ - yarn add cross-env
+
+::COPIAR BOILERPLATE::
+- yarn create next-app -e https://github.com/FlexaBR/NextJS-Boilerplate
 
