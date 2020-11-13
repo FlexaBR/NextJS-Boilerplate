@@ -34,3 +34,6 @@
 ::COPIAR BOILERPLATE::
 - yarn create next-app -e https://github.com/FlexaBR/NextJS-Boilerplate
 
+::Criar componente automaticao::
+- yarn add -D plop
+--> yarn generate button
